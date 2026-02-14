@@ -26,64 +26,59 @@ Raw sales CSV data
 
 ## 1. Data Cleaning & Preparation
 
-* Loaded raw sales dataset from CSV
-* Removed currency symbols and formatting issues
-* Converted numeric columns into proper data types
-* Handled missing or inconsistent values
-* Standardized date formats
+- Loaded raw sales dataset from CSV
+- Removed currency symbols and formatting issues
+- Converted numeric columns into proper data types
+- Handled missing or inconsistent values
+- Standardized date formats
 
 ## 2. Feature Engineering
 
-* Created analytics-ready columns:
+- Created analytics-ready columns:
 
-  * Revenue = Quantity × Price
-  * Month extraction
-  * Year extraction
-  * Rating/discount categorization
+  - Revenue = Quantity × Price
+  - Month extraction
+  - Year extraction
+  - Rating/discount categorization
 
 ## 3. Sales Performance Analysis
 
-* Calculated total revenue
-* Identified monthly sales trends
-* Evaluated product performance
-* Analyzed discount impact on sales
-* Computed average ratings
+- Calculated total revenue
+- Identified monthly sales trends
+- Evaluated product performance
+- Analyzed discount impact on sales
+- Computed average ratings
 
 ## 4. Business Insight Reporting
 
-* Generated summary KPI reports
-* Segmented revenue categories
-* Identified top-performing products
-* Highlighted customer rating patterns
+- Generated summary KPI reports
+- Segmented revenue categories
+- Identified top-performing products
+- Highlighted customer rating patterns
 
 ## 5. Data Visualization
 
-* Created monthly revenue trend charts
-
-* Product comparison visuals
-
-* Rating distribution graphs
-
-* Discount vs sales analysis
-
-* Saved visual outputs for reporting
+- Created monthly revenue trend charts
+- Product comparison visuals
+- Rating distribution graphs
+- Discount vs sales analysis
+- Saved visual outputs for reporting
 
 ## 6. Tableau Dashboard Integration
 
-* Imported enriched dataset into Tableau
-* Built interactive dashboards showing:
-
-  * Revenue trends
-  * Product performance
-  * Ratings overview
-  * Discount insights
+- Imported enriched dataset into Tableau
+- Built interactive dashboards showing:
+  - Revenue trends
+  - Product performance
+  - Ratings overview
+  - Discount insights
 
 ## 7. Insight Generation
 
-* Identified high-performing sales periods
-* Observed discount effectiveness
-* Highlighted product demand patterns
-* Supported data-driven decision making
+- Identified high-performing sales periods
+- Observed discount effectiveness
+- Highlighted product demand patterns
+- Supported data-driven decision making
 
 
 This project demonstrates practical data analyst workflow including cleaning, transformation, analytics, visualization, and dashboard storytelling - simulating real-world business reporting.
