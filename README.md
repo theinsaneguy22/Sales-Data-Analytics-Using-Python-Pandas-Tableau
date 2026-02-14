@@ -86,5 +86,5 @@ Raw sales CSV data
 * Supported data-driven decision making
 
 
-This project demonstrates practical data analyst workflow including cleaning, transformation, analytics, visualization, and dashboard storytelling — simulating real-world business reporting.
+This project demonstrates practical data analyst workflow including cleaning, transformation, analytics, visualization, and dashboard storytelling - simulating real-world business reporting.
 
